@@ -4,7 +4,8 @@
 }
 
 .nav-link:hover{
-    color: rgb(0, 0, 0);
+    color: #ffffff;
+    text-shadow: 0.5px 2px 3px #2f2f2f;
 }
 
 .h400{
