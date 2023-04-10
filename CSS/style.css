@@ -52,3 +52,12 @@ margin-bottom: 20px;
     color: #ffffff;
     margin-left: 20px;
   }
+
+  .btn-outline-light{
+   font-weight: bold;
+  }
+
+  .btn-outline-light:hover{
+    background-color: #167247;
+    color: #ffffff;
+  }
